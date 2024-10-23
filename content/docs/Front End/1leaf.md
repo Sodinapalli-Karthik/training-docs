@@ -1,5 +1,5 @@
 ---
-title: FontEnd
+title: FrontEnd
 type: docs
 weight: 1
 prev: docs/Front End
@@ -7,7 +7,7 @@ next: docs/Front End/2leaf
 ---
 
 # Frontend Training Documentation
-
+A
 ## Overview
 
 This document provides an overview of the technologies used in the frontend of the project, which is built using modern web development tools and libraries. The primary goal is to create an interactive and user-friendly web application with a responsive design.
